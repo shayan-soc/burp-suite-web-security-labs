@@ -62,7 +62,7 @@ burp-suite-web-security-labs/
 
 ## Security Disclaimer
 
-All testing documented in this repository will be
+My all testing documented in this repository will be
 performed only on authorized educational labs,
 my own applications, or systems where I have
 explicit permission.
